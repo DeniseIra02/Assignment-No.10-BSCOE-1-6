@@ -1,5 +1,15 @@
 import cv2
-         
+import pyzbar.pyzbar as pyzbar
+import datetime
+
+
+#def function for output
+def barc_read(frame):
+    #date and time
+    date_time = datetime.datetime.now()
+    #set module pyzbar and funtion decode
+    d_barcodes = pyzbar.decode(frame)
+
 def forcam():
 
     web_camera = cv2.VideoCapture(0)
