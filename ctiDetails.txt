@@ -1,0 +1,19 @@
+Name: Denise Ira Jubilo
+Age: 19
+Sex: Female
+Contact number: 09059190145
+Address: Tabon 3, Kawit, Cavit
+Temp: 36.5
+
+Vaccine Status: 
+SINOVAC
+Fully Vaccinated 
+
+Any COVID-19 symptoms in last 14 days: 
+None
+
+Being quarantined in last 14 days: 
+No
+
+Traveled out of town in last 14 days:
+No
